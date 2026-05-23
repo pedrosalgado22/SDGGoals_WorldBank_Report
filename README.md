@@ -1,6 +1,6 @@
 # Global Socio-Economic and Gender Equity Outlook
 
-<iframe title="DBIIProject" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2Q1YmI4NmItZmMyZi00YTE1LWIxMDktYWI1ODQ5YWNjZDA2IiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>
+Power BI Report avaliable [here](<iframe title="DBIIProject" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiM2Q1YmI4NmItZmMyZi00YTE1LWIxMDktYWI1ODQ5YWNjZDA2IiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9" frameborder="0" allowFullScreen="true"></iframe>).
 
 An interactive Business Intelligence report built in Power BI for the World Bank, examining gender equality through the lens of SDG 5 and its intersections with SDG 3 (Good Health and Well-being), SDG 4 (Quality Education), and SDG 8 (Decent Work and Economic Growth). Twelve analysis areas are covered across 14 datasets from the World Bank, IMF, Eurostat, and ITU, spanning two decades of global data and supporting full drill-down, roll-up, and cross-filtering interactivity.
 
