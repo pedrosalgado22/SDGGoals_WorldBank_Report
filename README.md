@@ -203,8 +203,7 @@ A mobile layout was also built for every page, featuring a white background, top
 | Microsoft PowerPoint | Presentation and defence deck exported to PDF |
 | Wikipedia UN Geoscheme (live web connection) | Continental and subregional classifications for the Geography dimension |
 | Claude Sonnet 4.6 (Anthropic) | AI coding assistance for complex DAX syntax and Vega-Lite specification development |
-| Gemini (Google) | AI table writing <img width="1453" height="831" alt="Screenshot_20260523_105741" src="https://github.com/user-attachments/assets/3aba9a91-4f6f-45ab-b9c5-2a1b39e85231" />
-assistance |
+| Gemini (Google) | AI table writing assistance |
 
 ---
 
