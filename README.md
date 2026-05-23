@@ -1,4 +1,6 @@
-# Measuring Equality: A portrait of women's equality
+# Measuring Equality: A Portrait of Women's Progress
+## A Cross-Regional Analysis of Gender Equity Progress Under SDGs 3, 4, 5, and 8 across the 2000s
+
 
 Power BI Report available [here](https://app.powerbi.com/view?r=eyJrIjoiM2Q1YmI4NmItZmMyZi00YTE1LWIxMDktYWI1ODQ5YWNjZDA2IiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9).
 
