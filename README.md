@@ -1,11 +1,16 @@
-# Global Socio-Economic and Gender Equity Outlook
+# Measuring Equality: A portrait of women's equality
 
 Power BI Report available [here](https://app.powerbi.com/view?r=eyJrIjoiM2Q1YmI4NmItZmMyZi00YTE1LWIxMDktYWI1ODQ5YWNjZDA2IiwidCI6ImU0YmQ2OWZmLWU2ZjctNGMyZS1iMjQ3LTQxYjU0YmEyNDkwZSIsImMiOjh9).
 
-An interactive Business Intelligence report built in Power BI for the World Bank, examining gender equality through the lens of SDG 5 and its intersections with SDG 3 (Good Health and Well-being), SDG 4 (Quality Education), and SDG 8 (Decent Work and Economic Growth). Twelve analysis areas are covered across 14 datasets from the World Bank, IMF, Eurostat, and ITU, spanning two decades of global data and supporting full drill-down, roll-up, and cross-filtering interactivity.
+An interactive Business Intelligence report built in Power BI for the World Bank, examining gender equality through the lens of SDG 5 and its intersections with SDG 3 (Good Health and Well-being), SDG 4 (Quality Education), and SDG 8 (Decent Work and Economic Growth). Twelve analysis areas are covered across 15 datasets from the World Bank, IMF, Eurostat, and ITU, spanning two decades of global data and supporting full drill-down, roll-up, and cross-filtering interactivity.
 
-**Course:** Databases II / Business Intelligence 2025/2026 — Nova IMS, Universidade Nova de Lisboa  
+**Course:** Business Intelligence 2025/2026 — Nova IMS, Universidade Nova de Lisboa  
 **Consulting Identity:** Cardial Enterprises
+
+---
+
+<img width="1297" height="719" alt="Screenshot_20260523_103954" src="https://github.com/user-attachments/assets/c1273ea5-85c0-443e-bd09-f6a112eae791" />
+
 
 ---
 
